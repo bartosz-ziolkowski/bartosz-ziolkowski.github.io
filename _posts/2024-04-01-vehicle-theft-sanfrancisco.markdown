@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Did you also lose your vehicle after 2000 in San Francisco?"
+classes: wide
 date: 2024-04-01 12:00:00 +0100
 categories: jekyll update
 ---
