@@ -33,7 +33,7 @@ In our opinion, the period from 2006 to 2010 deserves attention. During this tim
 
 To understand the development even more, 'Vehicle Theft', is compared with multiple street crimes over the years. Thereby, we can state that both 'vandalism' and 'sex offenses, forcible' have slightly increased over the years, whereas the other focus crimes have decreased. To get the full experience and comparison, choose how you will display the data and what crime(s) you will compare on a yearly basis. 
 
-<iframe src="/assets/html/CrimeTrendOverYears.html" style="width:100vw; height:700px;"></iframe>
+<iframe src="/assets/html/CrimeTrendOverYears.html" style="width:100%; height:700px;"></iframe>
 
 The decrease in crime rates are due to efforts by law enforcement and Mayor Breed's initiatives. Among other things, by prioritizing enforcement against property crime, implementing a zero-tolerance policy for drug-related activities, and invested in bolstering police staffing to ensure the ressources to serve the community and protect its residents [^1]. 
 
