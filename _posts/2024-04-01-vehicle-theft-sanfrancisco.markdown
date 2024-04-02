@@ -36,9 +36,9 @@ To understand the development even more, 'Vehicle Theft', is compared with multi
 
 <iframe src="/assets/html/CrimeTrendOverYears.html" style="width:100%; height:700px;"></iframe>
 
-The decrease in crime rates are due to efforts by law enforcement and Mayor Breed's initiatives. Among other things, by prioritizing enforcement against property crime, implementing a zero-tolerance policy for drug-related activities, and invested in bolstering police staffing to ensure the ressources to serve the community and protect its residents [^1]. 
+The decrease in crime rates are due to efforts by law enforcement and Mayor Breed's initiatives. Among other things, by prioritizing enforcement against property crime, implementing a zero-tolerance policy for drug-related activities, and invested in bolstering police staffing to ensure the ressources to serve the community and protect its residents[^1]. 
 
-Prostitution has decreased due to programs like First Offender Prostitution Program, which focuses on reducing the demand rather than targeting prostituted individuals. By educating "Johns", arrested men for soliciting prostitutes, about the negative consequenses of prostitution, they agree to pay a fee and attend to a one-day workshop at "John School" and have the charges dropped if they avoid another re-arrest for a year after the class [^2].
+Prostitution has decreased due to programs like First Offender Prostitution Program, which focuses on reducing the demand rather than targeting prostituted individuals. By educating "Johns", arrested men for soliciting prostitutes, about the negative consequenses of prostitution, they agree to pay a fee and attend to a one-day workshop at "John School" and have the charges dropped if they avoid another re-arrest for a year after the class[^2].
 
 # Conclusion
 
