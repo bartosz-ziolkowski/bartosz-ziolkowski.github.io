@@ -26,7 +26,7 @@ If you haven't caught on by now, the visualization below clearly shows the drast
 
 <img src="/assets/img/years.png" alt="Number of Crime Incidents from 2013 to 2018" style="width:100%; height:auto;">
 
-We observed an annual increase of approximately 1,000 drug/narcotic contact incidents from 2005 to 2009. However, since 2010, there has been a significant downward trend in the number of these incidents. On the other hand, incidents of vandalism remained relatively consistent, hovering around an average of 7,000 from 2003 to 2013, with minor fluctuations. Between 2014 and 2017, there was an increase in vandalism incidents, followed by a more than threefold decrease in 2018.
+We observed an annual increase of approximately 1,000 drug/narcotic contact incidents from 2005 to 2009. However, since 2010, there has been a significant downward trend in the number of these incidents. On the other hand, incidents of vandalism remained relatively consistent, hovering around an average of 7,000 from 2003 to 2013, with minor fluctuations. Between 2014 and 2017, there was an increase in vandalism incidents, followed by a more than threefold decrease in 2018 (which is mainly due to the fact that the dataset only goes back to May 2018).
 
 In our opinion, the period from 2006 to 2010 deserves attention. During this time, the number of incidents involving drug/narcotic contact shows an upward trend (with only a decrease from 2009 to 2010), while the number of vehicle theft incidents decreases. As mentioned earlier, the number of vandalism incidents remains relatively stable. Therefore, our speculation is that perhaps some vehicle thieves gradually shifted towards drug/narcotic activities.
 
@@ -42,7 +42,7 @@ Prostitution has decreased due to programs like First Offender Prostitution Prog
 
 # Conclusion
 
-In today's post, you learned about the trend of recorded vehicle theft incidents from 2003 to 2018. On the heatmap, you could see how the intensity of vehicle thefts varied across all districts of San Francisco during this period. For comparison, you also learned about the situation regarding drug/narcotic incidents and vandalism.
+In today's post, you learned about the trend of recorded vehicle theft incidents from 2003 to 2018. On the heatmap, you could observe the fluctuating intensity of vehicle thefts across all districts of San Francisco during this period. Additionally, through Bokeh visualization, you also gained insight into the situation regarding other street crimes like drug/narcotic incidents and vandalism.
 
 We hope we've also encouraged you to explore various datasets and conduct your own data analysis. Follow our blog for more - until next time.
 
