@@ -12,6 +12,12 @@ XYZ
 
 XYZ
 
+<img src="/assets/img/top_15_countries.png" alt="PNG" style="width:100%; height:auto;">
+
+<img src="/assets/img/initial_overview.png" alt="PNG" style="width:100%; height:auto;">
+
+<iframe src="/assets/html/ImmigrationEmigrationTrendByCountry.html" style="width:100%; height:700px;"></iframe>
+
 # Conclusion
 
 XYZ
