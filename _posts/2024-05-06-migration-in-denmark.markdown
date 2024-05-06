@@ -14,7 +14,7 @@ We used two public datasets from Statistics Denmark that provide us with knowled
 
 # Initial Overview on Migration (2015-2023)
 
-<img src="/assets/img/initial_overview.png" alt="PNG" style="width:100%; height:auto;">
+<iframe src="/assets/html/MigrationOverview.html" style="width:100%; height:700px;"></iframe>
 
 In the visualization above, you can see how immigration and emigration in general looked like over these 9 years. The third graph shows the balance of the ratio of immigration to emigration.
 
@@ -40,38 +40,41 @@ Therefore, the top 6 countries from which newcomers arriving in Denmark after 20
 
 # Gender Trends in Immigration and Emigration
 
-###IMAGE###
+<iframe src="/assets/html/ImmigrationEmigrationByGender.html" style="width:100%; height:700px;"></iframe>
 
-The total numbers of immigration and emigration have been regular between each year with small fluctuations. However, diving into and understanding why the number of immigrants was higher in 2022 than the other years is due to Russia's invasion of Ukraine. Around 6.5 million ukrainians have fled after the invasion, where nearly 32000 came to Denmark [Source: https://www.statista.com/statistics/575189/migration-flow-in-denmark/]. Additionally, there was an increase in the number of female immigrants in 2022. This was primarily due to the fact that the majority of those fleeing Ukraine were women and children, as men were required to serve their country according to Ukraine's martial law [source: https://us.dk/media/10597/ukraine_coi-ffm-report-june-2023.pdf, p. 83-87].
+The total numbers of immigration and emigration have been regular between each year with small fluctuations. However, diving into and understanding why the number of immigrants was higher in 2022 than the other years is due to Russia's invasion of Ukraine. Around 6.5 million ukrainians have fled after the invasion, where nearly 32000 came to Denmark[^1]. Additionally, there was an increase in the number of female immigrants in 2022. This was primarily due to the fact that the majority of those fleeing Ukraine were women and children, as men were required to serve their country according to Ukraine's martial law[^2].
 
-Furthermore, there has been a slight decrease in immigration from 2015 to 2020. This can be attributed to the tightening of immigration regulations during that period. If you have more interest in exploring the danish immigration law, you can you access it via this [link: https://www.retsinformation.dk/eli/lta/2019/1022]. However, forecasts predict that the total number of immigrants will increase to 724989 by 2029, with around 0.72 million immigrants residing in Denmark. [Source: https://www.statista.com/statistics/582848/forecast-of-increase-of-immigrants-in-denmark/].
+Furthermore, there has been a slight decrease in immigration from 2015 to 2020. This can be attributed to the tightening of immigration regulations during that period. If you have more interest in exploring the danish immigration law, you can you access it via [`this link`](https://www.retsinformation.dk/eli/lta/2019/1022). However, forecasts predict that the total number of immigrants will increase to 724989 by 2029, with around 0.72 million immigrants residing in Denmark[^3].
 
-The emigration trend by gender is showcasing no significant increases or decreases. However, since 2015 to 2019 the amount of emigrants have increased, where it subsequently decreased due to the covid-19 pandemic. In 2022 the emigration increased again, which can be explained by emigration of ukranians [source: https://www.dst.dk/da/Statistik/nyheder-analyser-publ/bagtal/2024/2024-02-23-6200-ukrainere-udvandrede-fra-Danmark-2023].
+The emigration trend by gender is showcasing no significant increases or decreases. However, since 2015 to 2019 the amount of emigrants have increased, where it subsequently decreased due to the covid-19 pandemic. In 2022 the emigration increased again, which can be explained by emigration of Ukrainians[^4].
 
 # Age Group Patterns in Immigration and Emigration
 
-###IMAGE###
+<img src="/assets/img/migration_by_age_groups.png" alt="PNG" style="width:100%; height:auto;">
 
-From 2015 to 2023, people aged 20-29 years formed the biggest group of immigrants in Denmark. The second biggest group were people aged 30-39 years. This pattern can be explained, where individuals seek to Denmark for opportunities such as education, employment, and carrer advancement. As Denmark is shouting at skilled workers, these individuals are driven by the socioeconomic factors, where Denmark has a strong economy with good qualities that strengthen the attractiveness of this country. 
+From 2015 to 2023, people aged 20-29 years formed the biggest group of immigrants in Denmark. The second biggest group were people aged 30-39 years. This pattern can be explained, where individuals seek to Denmark for opportunities such as education, employment, and career advancement. As Denmark is shouting at skilled workers, these individuals are driven by the socioeconomic factors, where Denmark has a strong economy with good qualities that strengthen the attractiveness of this country.
 
-The pattern for emigration is the same showcasing the age group 20-29 as the biggest group and 30-39 as the second biggest group. Like the immigration trends these individuals often are in significant transition phases of their lives and might consider opportunities abroad to strengthen their personal and professional development. Sometimes, emigration also happens because of plitical terms, where you can read an interesting post about why a danish student named Anna Caroline Nørregaard chose to emigrate via this [link: https://www.euronews.com/2018/09/10/why-some-danes-are-moving-abroad-in-order-to-live-at-home] if interested. 
+The pattern for emigration is the same showcasing the age group 20-29 as the biggest group and 30-39 as the second biggest group. Like the immigration trends these individuals often are in significant transition phases of their lives and might consider opportunities abroad to strengthen their personal and professional development. Sometimes, emigration also happens because of plitical terms, where you can read an interesting post about why a danish student named Anna Caroline Nørregaard chose to emigrate via [`this link`](https://www.euronews.com/2018/09/10/why-some-danes-are-moving-abroad-in-order-to-live-at-home) if interested.
 
 Now, let's delve further into the top 5 original countries of immigrants and the top 5 destinations of emigrants.
 
 # Exploring Age Groups: Top 5 Immigrant Origin Countries & Emigrant Destinations
 
-###IMAGE###
+<iframe src="/assets/html/TopCountriesMigrationByAgeGroup.html" style="width:100%; height:700px;"></iframe>
 
-Among the largest age group (20-29), Germany and Romania emerge as the two primary origin countries. Germany accounts for over 25000 individuals, while Romania contributes just under 20000 individuals. Furthermore, the second largest age group (30-39) are Romania and Poland the two primary origin countries, where they both account for around 6-7000 individuals. 
+Among the largest age group (20-29), Germany and Romania emerge as the two primary origin countries. Germany accounts for over 25000 individuals, while Romania contributes just under 20000 individuals. Furthermore, the second largest age group (30-39) are Romania and Poland the two primary origin countries, where they both account for around 6-7000 individuals.
 
-###IMAGE###
+Among the largest age group (20-29), Germany and Norway emerge as the two primary origin countries. Germany accounts for over under 20000 emigrants, while Norway emigrates with around 16000 individuals. Furthermore, the second largest age group (30-39) are Sweden and Poland the two primary origin countries, where they both account for around 6-7000 emigrants.
 
-Among the largest age group (20-29), Germany and Norway emerge as the two primary origin countries. Germany accounts for over under 20000 emigrants, while Norway emigrates with around 16000 individuals. Furthermore, the second largest age group (30-39) are Sweden and Poland the two primary origin countries, where they both account for around 6-7000 emigrants. 
-
-The overview of the countries contributing the most to the Danish immigration and emigration system sheds light on the dynamics of population movement. These insights are valuable for policymakers, enabling them to formulate effective and efficient immigration policies. 
+The overview of the countries contributing the most to the Danish immigration and emigration system sheds light on the dynamics of population movement. These insights are valuable for policymakers, enabling them to formulate effective and efficient immigration policies.
 
 # Conclusion
 
 XYZ
 
 # Links
+
+[^1]: [Denmark Migration Flow Statistics](https://www.statista.com/statistics/575189/migration-flow-in-denmark/)
+[^2]: [Ukraine COI-FFM Report June 2023](https://us.dk/media/10597/ukraine_coi-ffm-report-june-2023.pdf)
+[^3]: [Forecast of Immigrant Increase in Denmark](https://www.statista.com/statistics/582848/forecast-of-increase-of-immigrants-in-denmark/)
+[^4]: [Ukrainian Emigration from Denmark 2023](https://www.dst.dk/da/Statistik/nyheder-analyser-publ/bagtal/2024/2024-02-23-6200-ukrainere-udvandrede-fra-Danmark-2023)
