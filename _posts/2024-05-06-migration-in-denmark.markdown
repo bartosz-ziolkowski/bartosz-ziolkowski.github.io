@@ -84,7 +84,7 @@ Gender-wise, we observed a significant increase in female immigrants in 2022, wh
 
 Our analysis uncover the dynamics shaping migration trends and emphasizes the importance of understanding these movements for policymakers.
 
-- [Click here to open the blog post on Assignment 2](http://localhost:4000/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
+- [Click here to open the blog post on Assignment 2](https://bart-ziolkowski.github.io/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
 
 # References
 

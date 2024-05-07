@@ -571,4 +571,4 @@ Additionally, the visualization techniques effectively conveyed the story, but t
 | Age Groups: Top 5 Immigrant Origins & Emigrant Destinations | Main Contributor | Reviewer |
 | Conclusion | Main Contributor | Reviewer |
 
-- [Click here to open the blog post on Assignment 2](http://localhost:4000/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
+- [Click here to open the blog post on Assignment 2](https://bart-ziolkowski.github.io/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
