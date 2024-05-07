@@ -22,7 +22,7 @@ In the case of immigration, you can see that in total the largest number of peop
 
 In the case of the ratio of immigrants to emigrants, you can see that the ratio of the largest number of immigrants to the smallest number of emigrants took place in 2022 (more than 22,000 migrants "on the plus side"), and the ratio of the smallest number of immigrants to the largest number of emigrants in 2019 (just under 11,000 migrants "on the plus side").
 
-# Top 15 Countries
+# Share of Top 15 Countries in Migration
 
 <img src="/assets/img/top_15_countries.png" alt="PNG" style="width:100%; height:auto;">
 
