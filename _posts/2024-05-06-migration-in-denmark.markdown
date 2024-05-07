@@ -68,9 +68,9 @@ Now, let's delve further into the top 5 original countries of immigrants and the
 
 <iframe src="/assets/html/TopCountriesMigrationByAgeGroup.html" style="width:100%; height:700px;"></iframe>
 
-Among the largest age group (20-29), Germany and Romania emerge as the two primary origin countries. Germany accounts for over 25000 individuals, while Romania contributes just over 20000 individuals. Furthermore, the second largest age group (30-39) are Romania and Poland the two primary destinations, where they both account for around 6000-7000 individuals.
+Among the largest age group (20-29), Germany and Romania emerge as the two primary origin countries. Germany accounts for over 25000 individuals, while Romania contributes just over 20000 individuals. Furthermore, the second largest age group (30-39) are Romania and Poland the two primary origin countries, where they both account for around 11500-13500 individuals.
 
-Among the largest age group (20-29), Germany and Norway emerge as the two primary origin countries. Germany accounts for over under 20000 emigrants, while Norway emigrates with around 17000 individuals. Furthermore, the second largest age group (30-39) are Sweden and Poland the two primary origin countries, where they both account for around 6-7000 emigrants.
+Among the largest age group (20-29), Germany and Norway emerge as the two primary destinations. Germany accounts for over 20000 emigrants, while Norway emigrates with around 17000 individuals. Furthermore, the second largest age group (30-39) are Sweden and Poland the two primary destinations, where they both account for around 7500-8500 emigrants.
 
 The overview of the countries contributing the most to the Danish immigration and emigration system sheds light on the dynamics of population movement. These insights are valuable for policymakers, enabling them to formulate effective and efficient immigration policies.
 
@@ -83,6 +83,8 @@ Utilizing public datasets from Statistics Denmark, it unveils actual and reliabl
 Gender-wise, we observed a significant increase in female immigrants in 2022, which is attributed to Ukraine's conflict with Russia, which has displaces millions to protect themselves and their family. In the other hand, the number of emigrants had fluctuations that were influenced by factors such as the covid-19 pandemic and politics. Among the age groups, individuals aged 20-29 constituted the largest groups of both immigrants and emigrants, which potentially is driven by opportunities for education, employment, socio-economic status, and personal growth.
 
 Our analysis uncover the dynamics shaping migration trends and emphasizes the importance of understanding these movements for policymakers.
+
+# [Click here to open the blog post on Assignment 2](http://localhost:4000/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
 
 # References
 
