@@ -570,3 +570,5 @@ Additionally, the visualization techniques effectively conveyed the story, but t
 | Age Group Patterns in Immigration and Emigration | Main Contributor | Reviewer |
 | Age Groups: Top 5 Immigrant Origins & Emigrant Destinations | Main Contributor | Reviewer |
 | Conclusion | Main Contributor | Reviewer |
+
+- [Click here to open the blog post on Assignment 2](http://localhost:4000/jekyll/update/2024/04/01/vehicle-theft-sanfrancisco.html)
